@@ -1,4 +1,4 @@
-## My first blog post.
+## My first blog post 👋.
 
 This is my first blog. I am using Markdown and Jekyll for this. :)
 
