@@ -4,7 +4,7 @@ This is my first blog. I am using Markdown and Jekyll for this. :)
 
 ### Why?
 
-Because I want to, I feel like this will be a fun project to maintain.
+Because I want to, I feel like this will be a fun project.
 
 ### What will I blog about?
 
