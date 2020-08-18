@@ -11,4 +11,4 @@ Because I want to, I feel like this will be a fun project.
 I have no idea. Anything that interests me, I guess. ¯\_(ツ)_/¯
 
 ### Link to repository
-https://github.com/dps910/blog
+[blog](https://github.com/dps910/blog)
